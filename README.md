@@ -1,0 +1,3 @@
+# ScratchCard-android
+ScratchCard 
+----------------------
